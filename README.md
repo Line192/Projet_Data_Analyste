@@ -9,8 +9,7 @@ L’objectif du projet est de réaliser une application à l’aide de Python po
 5.Espérance et variance de combinaisons linéaires de variables aléatoires  a.Linéarité de l’espérance b.Variance 
 6.Application à la loi binomiale : a.Échantillon d’une loi de probabilité b.Échantillon de la loi de Bernoulli c.
 
-
-#Statistiques descriptifs : 
+# Statistiques Descriptives
 1.Le vocabulaire des statistiques  
 2.Compréhension des données 
 3.Représentations graphiques : d.Le diagramme en bâtons e.Le diagramme circulaire f.Regroupement en classes – Histogramme 4.Paramètres de position : a.Moyenne b.Médiane c.Mode 

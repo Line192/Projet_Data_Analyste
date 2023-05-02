@@ -1,7 +1,7 @@
 # Projet_Data_Analyste
 
 L’objectif du projet est de réaliser une application à l’aide de Python pour faire des traitements de données relatives aux personnes vaccinées contre la Covid-19.
-#Probabilité : 
+# Probabilité 
 1.Répétition d'expériences indépendantes 
 2.Épreuve de Bernoulli  
 3.Schéma de Bernoulli, loi binomiale a.Schéma de Bernoulli  b.Loi binomiale c.Expression de la loi binomiale à l’aide des coefficients binomiaux  
